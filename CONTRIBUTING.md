@@ -1,0 +1,3 @@
+You will need to submit a (Contributor License Agreement)[http://go.microsoft.com/fwlink/?LinkID=293426&clcid=0x409] form before submitting your pull request. This needs to only be done once for any Microsoft Open Technologies Open Source project. (Download)[http://go.microsoft.com/fwlink/?LinkID=293426&clcid=0x409] the Contributor License Agreement (CLA). Please fill in, sign, scan and email it to msopentech-cla@microsoft.com  (please prefix the email subject with the project name).
+
+Make sure to configure git with a username and email address to use for your commits. Your username should be your Github username, so that people will be able to relate your commits to you. 

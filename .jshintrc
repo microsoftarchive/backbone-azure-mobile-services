@@ -1,0 +1,32 @@
+{
+	"noarg": true,
+	"noempty": true,
+	"latedef": true,
+	"undef": true,
+	"unused": true,
+	"strict": false,
+	"trailing": true,
+	"node": true,
+	"browser": true,
+	"loopfunc" : true,
+
+	"predef" : [
+		"_",
+		"$",
+		"Backbone",
+
+		"client",
+		"Faker",
+		"createSimpleCard",
+
+		"jasmine",
+		"describe",
+		"it",
+		"expect",
+		"waitsFor",
+		"runner",
+		"suite",
+		"spec",
+		"runs"
+	]
+}
