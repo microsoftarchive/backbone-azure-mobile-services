@@ -48,6 +48,6 @@ You would need [NodeJS](http://nodejs.org/) installed on your system. To install
 To build the project, run `grunt build`. The build process currently runs jshint and minifies the output and places the files in the `dist` folder. 
 
 ## Running Tests
-Once you have built the project (see section above), run `grunt dev` to start up a local HTTP server that hosts the [jasmine](http://pivotal.github.io/jasmine/) test suite. Open `http://127.0.0.1:9999/tests/SpecRunner.html` in your browser to see the tests run. 
+Once you have built the project (see section above), run `grunt dev` to start up a local HTTP server that hosts the [jasmine](https://jasmine.github.io/) test suite. Open `http://127.0.0.1:9999/tests/SpecRunner.html` in your browser to see the tests run. 
 
 Note that you will have update AppUrl and AppKey in `\tests\SpecRunner.html` (line 24 to line 29) with your information from the Windows Azure Mobile Services [Dashboard](http://www.windowsazure.com/en-us/develop/mobile/tutorials/get-started-with-data-html/#header-3).  
